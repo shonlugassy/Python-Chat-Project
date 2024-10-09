@@ -12,7 +12,7 @@ In this project, I created a simple chat application in Python that facilitates 
 - **Pycharm**
 - **Tkinter (for the GUI)**
 - **Socket programming (for client-server communication)**
-- **Threading (to handle multiple clients)**
+- **Threading (to handle multiple clients)** 
 
 ## Usage
 - **Here is the instruction of how to run the project on Pycharm**
@@ -23,5 +23,7 @@ In this project, I created a simple chat application in Python that facilitates 
 - **5:** Enter your nickname for the second client and click the "ok" button
 - **6:** For the first and second clients enter your names in the Message prompt
 - **7:** Start to chat!
+
+## Note: All the libraries is part of the Python standard library, so you don’t need to install the libraries separately.
 
 
